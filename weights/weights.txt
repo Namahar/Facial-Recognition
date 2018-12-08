@@ -1,1 +1,2 @@
 weights for neural network
+puts weights in FaceNet folder
