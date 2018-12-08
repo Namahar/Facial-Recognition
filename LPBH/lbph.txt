@@ -1,0 +1,1 @@
+This Folder is for facial recognition using Local Binary Pattern Histograms
