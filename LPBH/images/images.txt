@@ -1,1 +1,2 @@
 insert images into the folder
+each person gets a folder
